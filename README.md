@@ -6,11 +6,17 @@ The client app is written entirely in Typescript, using React, and Chakra ui as 
 
 Please spend only up to two hours implementing the frontend for the purchases table feature. **Important** — when you're done:
 
+Route 1:
+
 - Remove the `node_modules` folder
 - Remove `dist folder` from server folder
 - Zip up this directory
 - Edit the last section of this README file with a short blurb telling us what tradeoffs you made (if any) and how you might improve your solution and any other outstanding thoughts.
 - Submit it back to us (nick@tropicapp.io)
+
+Route 2:
+
+- Create a GH repo and give Nick Smith (nick-smith8) access.
 
 ## Task details
 
