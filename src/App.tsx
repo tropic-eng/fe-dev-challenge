@@ -11,7 +11,6 @@ import useFetchPurchases from "./queries/useFetchPurchases";
 function App() {
   const { data: purchases, isLoading } = useFetchPurchases();
 
-  console.log(purchases, isLoading);
   return (
     <section className={styles.layout}>
       <Sider>
